@@ -1,0 +1,6 @@
+PLAN.md
+node_modules/
+target/
+concordium-out/
+*.env
+local.env
